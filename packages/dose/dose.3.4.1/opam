@@ -36,3 +36,4 @@ depends: [
 depexts: [
  [["fedora"] ["perl-Pod-Html"]]
 ]
+available: [ ocaml-version <= "4.04.0" ]
